@@ -118,8 +118,16 @@ Docker Compose 다중 컨테이너 배포, A-SPICE 대응 사내 GitLab 구축 �
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img
+    src="./profile/stats.svg"
+    height="160"
+    alt="GitHub Stats"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="160"
+    alt="Top Languages"
+  />
 </div>
 
 <br/>
