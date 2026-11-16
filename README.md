@@ -96,7 +96,7 @@ Docker Compose 다중 컨테이너 배포, A-SPICE 대응 사내 GitLab 구축 �
 |:---|:---|:---|:---:|
 | **로봇 스마트 액추에이터 다중 통신 인터페이스 플랫폼** | 하위 제어기용 CAN-FD 프로토콜과 상위 EtherCAT 연동 SDK 설계, Qt 기반 통합 HMI 검증 툴 개발 · 3인 | C, C++, CAN-FD, EtherCAT | 2026.08 |
 | **6상 VSD AI 진단 액추에이터** | 6상 VSD 액추에이터 제어와 AI 기반 고장 진단 · 수명 예측 · 2인 | Python, CNN, LSTM-CNN, Transformer, PINN, InfluxDB, Grafana, React, Docker | 2026.02 |
-| **[순환식 수경재배 스마트팜](https://dh-smartfarm.com/)** | 순환식 수경재배 스마트팜 시스템 · 1인 개발 | C#, Django, MSSQL | 2025.07 |
+| **순환식 수경재배 스마트팜** | 순환식 수경재배 스마트팜 시스템 · 1인 개발 | C#, Django, MSSQL | 2025.07 |
 | **바이크 뱅크** | 바이크 렌트 · 판매 어드민 프로그램 · 8인 팀 | C#, .NET Core, ASP.NET | 2025.04 |
 
 <details>
@@ -115,22 +115,6 @@ Docker Compose 다중 컨테이너 배포, A-SPICE 대응 사내 GitLab 구축 �
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img
-    src="./profile/stats.svg"
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="160"
-    alt="Top Languages"
-  />
-</div>
-
-<br/>
 
 <div align="center">
 
